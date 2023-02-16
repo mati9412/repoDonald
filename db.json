@@ -5,19 +5,19 @@
       "title": "Hamburger",
       "description": "To jest super zrobiony burger, będziesz lodowaty z wrażenia",
       "season": "Winter"
-    }
+    },
     {
       "id": 2,
       "title": "Cheeseburger",
       "description": "To jest wiosenny burger, kucharz akurat wrócił z majówki",
       "season": "Spring"
-    }
+    },
     {
       "id": 3,
       "title": "Bigsummer",
       "description": "To jest gorący burger, prosto z plaży",
       "season": "Summer"
-    }
+    },
     {
       "id": 4,
       "title": "Wieśmac",
