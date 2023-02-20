@@ -3,19 +3,13 @@
     {
       "id": 1,
       "title": "Hamburger",
-      "description": "System:Microsoft Windows 11 Home
-Procesor:AMD Ryzen™ 5 5600
-Grafika:NVIDIA GeForce RTX 3060
-Pamięć RAM:16 GB",
+      "description": "System:Microsoft Windows 11 Home Procesor:AMD Ryzen™ 5 5600 Grafika:NVIDIA GeForce RTX 3060 Pamięć RAM:16 GB",
       "season": "Ultra"
     },
     {
       "id": 2,
       "title": "Cheeseburger",
-      "description": "System:Microsoft Windows 11 Home
-Procesor:AMD Ryzen™ 4 3200
-Grafika:NVIDIA GeForce RTX 2080
-Pamięć RAM:8 GB",
+      "description": "System:Microsoft Windows 11 Home Procesor:AMD Ryzen™ 4 3200 Grafika:NVIDIA GeForce RTX 2080 Pamięć RAM:8 GB",
       "season": "Light"
     },
     {
